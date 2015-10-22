@@ -1,0 +1,18 @@
+{
+    "name": "geekhub/homework #3",
+    "description": "Cars class",
+    "authors": [
+        {
+            "name": "Andrey Malamuzh",
+            "email": "malamuzh@mail.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "cars\\": "src/cars"
+        }
+    },
+
+    "minimum-stability": "dev",
+    "require": {}
+}
